@@ -25,7 +25,7 @@ Dự án được tổ chức theo cấu trúc chuẩn để dễ dàng bảo tr
 ```app/core/```: Chứa cấu hình (Settings) và khuôn mẫu dữ liệu (Schemas).  
 ```app/clients/```: Chứa bộ phận kết nối với mô hình LLM (Ollama).  
 ```app/data/```: Lưu trữ dữ liệu chính sách và FAQ giả lập.  
-```configs/```: Chứa mô hình fine-tune và file cấu hình từ Lab 2.
+```configs/```: Chứa mô hình fine-tune và file cấu hình từ Lab 2. 
 ```examples/```: Các yêu cầu mẫu dùng để kiểm thử hệ thống. 
 
 ## 4. Hướng dẫn cài đặt và sử dụng
